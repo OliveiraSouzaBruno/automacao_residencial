@@ -116,15 +116,6 @@ div.rele3_desligado {
     width: 350px;
     height: 150px; 
 }
-#div4 {
-	position: absolute;
-	right: 85px;
-	top: 680;
-    border-radius: 25px;
-    border: 2px solid #000000;
-    width: 350px;
-    height: 150px; 
-}
 
 #botao{
     position: absolute;
