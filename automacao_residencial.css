@@ -16,7 +16,7 @@ body {
     padding-top: 40px;
     position: relative;
     width: 530px;
-    height: 900px;
+    height: 600px;
     margin-right: auto;
     margin-top: 0;
     margin-left: auto;
@@ -50,7 +50,7 @@ div.rele1_desligado {
 div.rele2_ligado {
     position: absolute;
     right: -110px;
-    top: 387px;
+    top: 38px;
     width: 300px;
     height: 206px;
     border: none;
