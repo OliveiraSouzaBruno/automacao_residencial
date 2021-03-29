@@ -86,7 +86,7 @@ div.rele2_desligado {
     width: 350px;
     height: 150px; 
 }
-#div3 {
+#div3, div4 {
 	position: absolute;
 	right: 85px;
 	top: 515;
