@@ -17,13 +17,13 @@ body {
     position: relative;
     width: 530px;
     height: 600px;
-	margin-right: auto;
-	margin-top: 0;
-	margin-left: auto;
-        font-size: 30px;
-        color: black;
-        text-align: center;
-        font-family: arial;
+    margin-right: auto;
+    margin-top: 0;
+    margin-left: auto;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-family: arial;
 }
 
 div.rele1_ligado {
@@ -33,7 +33,7 @@ div.rele1_ligado {
     width: 300px;
     height: 206px;
     border: none;
-		margin:auto;
+    margin:auto;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
